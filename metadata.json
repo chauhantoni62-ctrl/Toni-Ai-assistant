@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Toni AI Desktop Assistant",
+  "description": "A modular Python-based AI assistant for Windows with voice control, automation, and offline capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
